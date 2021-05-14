@@ -1,0 +1,9 @@
+{
+  "defaultLanguageCode":"vi",
+  "list":[{
+    "code":["vi"],
+    "name":"Vietnamese",
+    "folder":"vi"},
+    {"code":["en"],"name":"English","folder":"en"}, {"code": ["fr"], "name": "English", "folder": "fr"}
+  ]
+}
